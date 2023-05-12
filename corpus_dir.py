@@ -1,0 +1,1 @@
+CORPUS_NATE_ANGRY = "corpus\\nate\\angry"
